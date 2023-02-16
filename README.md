@@ -1,2 +1,3 @@
-# mac_changer
-a tool to change mac address randomly   my first project here .
+# mac changer
+a tool to change mac address randomly   
+that's my first project here .
